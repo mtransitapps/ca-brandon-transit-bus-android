@@ -1,0 +1,295 @@
+1,'1','Downtown Terminal',49.849156,-99.948649
+11,'11','Pacific Ave / 2nd St',49.84966,-99.94025
+12,'12','Pacific Ave / 5th St',49.84962,-99.94501
+13,'13','Rosser Ave / 17th St',49.84837,-99.96056
+14,'14','Rosser Ave / 15th St',49.84838,-99.95757
+15,'15','Rosser Ave / 12th St',49.84836,-99.95368
+16,'16','Rosser Ave / 10th St',49.8484,-99.95094
+17,'17','Rosser Ave / 6th St',49.84831,-99.94553
+18,'18','Rosser Ave / 3rd St',49.84845,-99.94261
+19,'19','Rosser Ave / 1st St',49.84764,-99.93918
+20,'20','Princess Ave / 2nd St',49.84692,-99.94006
+21,'21','Princess Ave / 5th St',49.84694,-99.94383
+22,'22','Princess Ave / 6th St',49.84695,-99.94653
+23,'23','Princess Ave / 8th St',49.84693,-99.94934
+24,'24','Princess Ave / 11th St',49.84692,-99.95318
+25,'25','Princess Ave / 12th St',49.84694,-99.95503
+26,'26','Princess Ave / 14th St',49.84701,-99.95726
+27,'27','Princess Ave / 16th St',49.84695,-99.95992
+28,'28','Brandon University (East)',49.84391,-99.96178
+29,'29','Winnipeg House',49.84658,-99.95835
+30,'30','Hobbs Mnr',49.84484,-99.95834
+31,'31','15th St / Victoria Ave',49.84239,-99.95883
+32,'32','Victoria Ave / 16th St',49.84234,-99.96022
+33,'33','13th St / Victoria Ave',49.84258,-99.95542
+34,'34','Princess Ave / 13th St',49.84708,-99.95544
+35,'35','13th St / Lorne Ave',49.84558,-99.95544
+36,'36','13th St / Pacific Ave',49.84883,-99.95548
+37,'37','10th St / Louise Ave',49.844,-99.95131
+38,'38','10th St / Lorne Ave',49.84557,-99.95135
+39,'39','10th St / Princess Ave',49.84709,-99.95132
+40,'40','1st St / Lorne Ave',49.84473,-99.93919
+41,'41','Victoria Ave / 3rd St',49.84228,-99.94457
+42,'42','Victoria Ave / 6th St',49.84229,-99.94645
+43,'43','Victoria Ave / 8th St',49.84229,-99.94961
+44,'44','6th St / Victoria Ave',49.84256,-99.94588
+45,'45','6th St / Louise Ave',49.84415,-99.94587
+46,'46','6th St / Rosser Ave',49.8476,-99.94587
+47,'47','6th St / Rosser Ave',49.84811,-99.94606
+48,'48','10th St / Princess Ave',49.84632,-99.95153
+49,'49','10th St / Louise Ave',49.84354,-99.95152
+1001,'1001','Wheat City Golf Course',49.85188,-99.98546
+1003,'1003','McDonald Ave / 32nd St North',49.85187,-99.98122
+1005,'1005','McDonald Ave / 30th St North',49.851835,-99.978643
+1007,'1007','McDonald Ave / 28th St North',49.85186,-99.97625
+1008,'1008','Mcdonald Ave / 28th St North',49.85197,-99.97601
+1009,'1009','McDonald Ave / 26th St N',49.851845,-99.973047
+1010,'1010','Mcdonald Ave / 25th St North',49.85195,-99.97218
+1012,'1012','McDonald Ave / 23rd St North',49.85184,-99.96899
+1014,'1014','McDonald Ave / 21st St North',49.85183,-99.96579
+1016,'1016','18th St / Fred Brown Way',49.85484,-99.96216
+1018,'1018','Stickney Ave / 15th St North',49.852,-99.9595
+1020,'1020','Sokol Mnr',49.85202,-99.95587
+1021,'1021','Stickney Ave / 10th St North',49.85204,-99.95243
+1023,'1023','Stickney Ave / 8th St North',49.85204,-99.9497
+1025,'1025','18th St North / McGregor Ave',49.8572,-99.96175
+1026,'1026','18th St North / John Ave (East)',49.85897,-99.96164
+1027,'1027','Home Depot - South',49.86452,-99.95733
+1028,'1028','Kirkcaldy Dr / Cater Dr',49.86451,-99.95364
+1035,'1035','Sportsplex',49.8668,-99.94726
+1036,'1036','Knowlton Dr / Caribou Way',49.86967,-99.94473
+1037,'1037','Braecrest Dr / Kelly Pl',49.87163,-99.94414
+1039,'1039','Domo',49.87129,-99.93913
+1040,'1040','1st St North / Kirkham Cres',49.86887,-99.93913
+1041,'1041','1st St North / Kirkcaldy Dr',49.864841,-99.939201
+1042,'1042','Braecrest Dr / Leech Printing',49.87177,-99.94553
+1043,'1043','Braecrest Dr / Lark St',49.87176,-99.94853
+1044,'1044','Braecrest Dr / Bison Way',49.87179,-99.9511
+1047,'1047','Braecrest Dr / Quail Rdg Rd',49.87181,-99.95751
+1050,'1050','Walmart Stop',49.86761,-99.96169
+1051,'1051','18th St North / Braecrest Dr',49.8727,-99.96167
+1052,'1052','TSC Store',49.87657,-99.96136
+1053,'1053','18th St North / Claire Ave',49.87949,-99.96149
+1054,'1054','Dufresne Furniture',49.88326,-99.96149
+1055,'1055','Shell',49.88515,-99.96122
+1056,'1056','Freightliner',49.88725,-99.96117
+1057,'1057','Meadowlark Campground',49.8871,-99.95731
+1058,'1058','North Hl McDonald''s',49.88723,-99.952
+1059,'1059','Comfort Inn',49.8871,-99.9492
+1060,'1060','Maxim Trucks',49.8871,-99.94494
+1061,'1061','Best Western Motel',49.88711,-99.94157
+1062,'1062','Petro Canada',49.88544,-99.93919
+1063,'1063','Midway Motel',49.88259,-99.93918
+1064,'1064','Wheat City Vet Clinic',49.8794,-99.93916
+1065,'1065','Galilee Auto',49.87723,-99.93916
+1066,'1066','Value Vlg Stop',49.87485,-99.93913
+1068,'1068','Dinsdale Pk',49.85483,-99.93925
+1071,'1071','White Swan St / Gln Ave',49.876089,-99.941136
+1072,'1072','Parker Blvd / 16th St North',49.855405,-99.959823
+1073,'1073','Corral Ctr',49.863882,-99.961898
+1074,'1074','Braecrest Dr / White Swan St',49.87169,-99.94154
+1076,'1076','18th St N / McGregor Ave',49.857097,-99.962219
+1077,'1077','17th St North / Lady Of The Lk (West Side)',49.85294,-99.96101
+1078,'1078','18th St N / Grand Vly Rd',49.864442,-99.962098
+1079,'1079','White Swan St / Braecrest Dr',49.871837,-99.941168
+2001,'2001','Currie Blvd / Patricia Ave',49.81306,-99.96249
+2002,'2002','Days Inn',49.81586,-99.96248
+2003,'2003','Currie Blvd / Imperial Sq',49.817555,-99.962542
+2004,'2004','Maryland Ave / 20th St',49.8206,-99.96576
+2005,'2005','20th St 1500 Block',49.82338,-99.96497
+2007,'2007','20th St / Ottawa Ave',49.8257,-99.96497
+2008,'2008','Richmond Terminal (North)',49.82756,-99.96318
+2009,'2009','Richmond Ave / 22nd St',49.82759,-99.96809
+2010,'2010','26th St / Richmond Ave',49.82718,-99.97329
+2011,'2011','26th St / Parkdale Dr',49.82459,-99.97325
+2012,'2012','26th St / Maryland Ave',49.82086,-99.97307
+2013,'2013','Parkdale Dr / Neepawa Dr',49.82427,-99.9758
+2014,'2014','Parkdale Dr / Durum Dr',49.82637,-99.97888
+2015,'2015','Richmond Ave / 26th St',49.82762,-99.97412
+2016,'2016','Richmond Ave / Linden Blvd',49.82768,-99.97952
+2017,'2017','Richmond Ave / Parkdale Dr',49.82758,-99.97838
+2018,'2018','Richmond Ave / 34th St (East Of 34th North)',49.82764,-99.9832
+2019,'2019','34th St / Willowdale Cres - S.W. Of Traffic Cir',49.82754,-99.9827
+2020,'2020','34th St / Willowdale Cres - S.E. Of Traffic Cir',49.83042,-99.98454
+2021,'2021','34th St / Willowdale - S.W. Of Traffic Cir',49.83041,-99.9847
+2022,'2022','Westridge CC',49.83125,-99.98159
+2023,'2023','Willowdale Cres / Ashgrove Blvd',49.83158,-99.97886
+2024,'2024','Willowdale Cres / Beech Blvd',49.83163,-99.9784
+2025,'2025','Willowdale Cres / Evergreen Blvd',49.83128,-99.98262
+2026,'2026','Willowdale Cres / Silver Birch Dr (East)',49.83205,-99.97539
+2027,'2027','Willowdale Cres / Silver Birch Dr (East)',49.83218,-99.97569
+2028,'2028','26th St / Brandon Ave',49.83258,-99.97325
+2029,'2029','26th St / Violet Cres',49.83009,-99.97327
+2030,'2030','Brandon Ave / Buttercup Bay',49.83284,-99.97147
+2031,'2031','Brandon Ave / Aster Cres',49.83289,-99.96554
+2032,'2032','18th St / Queen''s Ave',49.8296,-99.96208
+2033,'2033','Shoppers Mall',49.82579,-99.96222
+2034,'2034','Capitol Theatre',49.82201,-99.96206
+2035,'2035','Richmond Ave / 34th St (West Side Of 34th North)',49.82759,-99.98719
+2036,'2036','Wankling Blvd / Richmond Ave',49.82787,-99.99284
+2037,'2037','Wankling Blvd (East)',49.82959,-99.99278
+2038,'2038','Willowdale Cres@ Wexford Bay',49.82993,-99.98963
+2039,'2039','Willowdale Cres / 34th St',49.83118,-99.9856
+2040,'2040','Pk Ave / Christie Bay',49.83576,-99.9828
+2041,'2041','Pk Ave / Grant Blvd (West)',49.83576,-99.98034
+2042,'2042','Pk Ave / Grant Blvd',49.83575,-99.97706
+2043,'2043','Hillcrest PCH',49.8353,-99.97326
+2044,'2044','26th St / Brandon Ave',49.83331,-99.97295
+2045,'2045','26th St / Pk Ave',49.83649,-99.97297
+2046,'2046','26th St / VanHorne Ave',49.83886,-99.97327
+2047,'2047','McTavish Ave / 26th St',49.84071,-99.9738
+2048,'2048','McTavish Ave / McDiarmid Dr',49.84036,-99.97614
+2049,'2049','Vincent Massey High School',49.83814,-99.97834
+2050,'2050','McDiarmid Dr / Hickory St',49.83757,-99.98277
+2051,'2051','34th St / McDiarmid Dr',49.83784,-99.98459
+2052,'2052','34th St / Cherry Cres',49.84079,-99.98463
+2053,'2053','34th St / McTavish Ave',49.84115,-99.98487
+2054,'2054','34th St / McDiarmid Dr',49.83727,-99.98488
+2055,'2055','Victoria Ave / 34th St Stop (East)',49.84401,-99.9847
+2056,'2056','Victoria Inn',49.84337,-99.98489
+2057,'2057','Centennial Blvd / 34th St',49.84468,-99.98576
+2058,'2058','Centennial Blvd / 34th St',49.84457,-99.98568
+2059,'2059','Centennial Blvd / Riverheights Dr',49.84471,-99.98915
+2060,'2060','Centennial Blvd / Riverheights Dr',49.8446,-99.98879
+2061,'2061','Centennial Blvd / Regent Cres (North)',49.8457,-99.99283
+2062,'2062','Centennial Blvd / Regent Cres (South)',49.84528,-99.99166
+2063,'2063','Fotheringham Dr / Centennial Blvd',49.84534,-99.99527
+2064,'2064','Regent Cres / Fotheringham Dr',49.8432,-99.99659
+2066,'2066','Governors Rd (East Side)',49.84436,-100.00085
+2067,'2067','Centennial Blvd #1 - West Of Fotheringham',49.84539,-99.99898
+2068,'2068','Centennial Blvd #2 - West Of Fotheringham',49.84579,-99.99644
+2069,'2069','Fotheringham Dr / Rosser Ave',49.84834,-99.99526
+2070,'2070','Vincent Massey High School',49.83893,-99.97623
+2071,'2071','Fotheringham Dr / Rosser Ave',49.84867,-99.99473
+2072,'2072','Rosser Ave / Deer Pl',49.84887,-99.99187
+2073,'2073','Rosser Ave / Deer Pl',49.84879,-99.99136
+2074,'2074','Rosser Ave / 34th St',49.84861,-99.98512
+2075,'2075','Rosser Ave / Patmore Dr',49.84846,-99.98414
+2076,'2076','Rosser Ave / Whillier Dr',49.84857,-99.98184
+2077,'2077','Rosser Ave / Whillier Dr',49.84847,-99.981
+2078,'2078','Rosser Ave / 29th St',49.84856,-99.97771
+2079,'2079','Rosser Ave / McDiarmid Dr',49.84844,-99.97694
+2080,'2080','Rosser Ave / 26th St',49.84854,-99.97375
+2081,'2081','Rosser Ave / 26th St',49.84842,-99.9727
+2082,'2082','Rosser Ave / 23rd St',49.8484,-99.9685
+2083,'2083','Rosser Ave / 20th St',49.84839,-99.96436
+2084,'2084','Princess Ave / 24th St',49.84696,-99.97054
+2085,'2085','Princess Ave / 22nd St',49.84693,-99.96783
+2086,'2086','Princess Ave / 20th St',49.8469,-99.96514
+2087,'2087','Princess Ave / 18th St',49.84692,-99.96238
+2088,'2088','Brandon University (West)',49.84423,-99.9621
+2089,'2089','Victoria Ave / 20th St',49.84235,-99.96529
+2090,'2090','Victoria Ave / 23rd St',49.84239,-99.96967
+2091,'2091','Victoria Ave / 26th St',49.84241,-99.9739
+2092,'2092','Victoria Ave / McDiarmid Dr',49.84236,-99.97646
+2093,'2093','Victoria Ave / Valleyview CC',49.84237,-99.97932
+2094,'2094','Victoria Ave / Noonan Dr',49.84243,-99.98212
+2095,'2095','18th St / McTavish Ave',49.84091,-99.96207
+2096,'2096','Thomas Mall',49.83845,-99.96207
+2097,'2097','18th St / Pk Ave',49.83524,-99.96208
+2098,'2098','Keystone Motor Inn',49.83352,-99.96208
+2099,'2099','Richmond Terminal (South)',49.82736,-99.96439
+2100,'2100','Richmond Ave / 26th St',49.82738,-99.97263
+2101,'2101','Richmond Ave / 22nd St',49.82738,-99.96709
+2102,'2102','McTavish Ave / McDiarmid Dr',49.84057,-99.97552
+3001,'3001','Lyndale Blvd / Young Ave',49.813,-99.9614
+3002,'3002','Lyons Transmission Ctr',49.81575,-99.96139
+3003,'3003','Little Chiefs Pl',49.81853,-99.96139
+3004,'3004','Magnolia Dr / Patricia Ave',49.81315,-99.95271
+3005,'3005','Magnolia Dr / Drieger Bay',49.8185,-99.95296
+3007,'3007','Maryland Ave / Sycamore',49.82003,-99.95152
+3008,'3008','9th St / Portola Dr',49.81552,-99.94965
+3009,'3009','9th St / Coulter Way',49.81722,-99.9497
+3010,'3010','Maryland Ave / Mcleod Dr (East)',49.81999,-99.94849
+3011,'3011','Maryland / 9th St',49.8201,-99.94881
+3012,'3012','Maryland Ave / McLeod Dr',49.81999,-99.94669
+3013,'3013','Maryland Ave / McLeod Dr (West)',49.8201,-99.94617
+3014,'3014','Maryland Ave / Cornell Bay',49.81997,-99.94392
+3015,'3015','Maryland Ave / Cornell Bay (North Side)',49.82006,-99.94359
+3016,'3016','Crocus Plains High School - North',49.82008,-99.94068
+3017,'3017','Crocus Plains High School - South',49.81994,-99.94048
+3018,'3018','Canadian Tire',49.82537,-99.96175
+3019,'3019','18th St / Aberdeen Ave',49.82213,-99.96177
+3020,'3020','Maryland Ave / Mcleod Dr',49.82134,-99.94997
+3021,'3021','9th St / Mcleod Dr',49.82116,-99.95014
+3022,'3022','1st St / Aberdeen Ave',49.82394,-99.93898
+3023,'3023','1st St / Aberdeen Ave',49.82387,-99.939178
+3025,'3025','9th St / Aberdeen Ave',49.82334,-99.95012
+3026,'3026','9th St / Aberdeen Ave',49.82404,-99.94998
+3027,'3027','9th St / Richmond Ave',49.8264,-99.95013
+3028,'3028','9th St / Richmond Ave',49.8268,-99.94995
+3029,'3029','Richmond Ave / 9th St',49.82735,-99.94952
+3030,'3030','Richmond Ave / 1st St',49.82729,-99.93806
+3031,'3031','Richmond Ave / Percy St',49.82731,-99.93026
+3032,'3032','Civic Services Complex - South Side',49.82731,-99.92551
+3033,'3033','Civic Services Complex - North Side',49.82743,-99.92496
+3034,'3034','Richmond Ave / Douglas St',49.82742,-99.92793
+3035,'3035','Richmond Ave / Elderwood Dr',49.82745,-99.93147
+3036,'3036','1st St / Russell St',49.82745,-99.93564
+3037,'3037','Queens Ave / 1st St',49.83011,-99.93861
+3038,'3038','Queens Ave / Applewood Bay',49.83018,-99.93652
+3039,'3039','Queens Ave / Basswood Bay',49.83007,-99.93595
+3040,'3040','Queens Ave / Elderwood Dr',49.83016,-99.93181
+3041,'3041','Queens Ave / Elderwood Dr',49.83008,-99.93131
+3042,'3042','Garwood Dr / Hazelwood Cres',49.83083,-99.92899
+3043,'3043','Garwood Dr / Elderwood Cres',49.83078,-99.92875
+3044,'3044','Garwood Dr / Fernwood Cres',49.82889,-99.92448
+3045,'3045','Garwood Dr / Hazelwood Dr',49.82895,-99.92442
+3046,'3046','Queen''s Ave E / 1st St',49.83049,-99.93861
+3047,'3047','1st St / Madison Cres',49.83356,-99.93891
+3048,'3048','1st St / Pk Ave',49.83647,-99.9389
+3049,'3049','1st St / College Ave',49.83789,-99.93893
+3050,'3050','VanHorne Ave / 1st St',49.83926,-99.93788
+3051,'3051','Pk Ave / 1st St',49.83582,-99.93839
+3052,'3052','Pk Ave / Frederick St',49.83617,-99.93475
+3053,'3053','College Ave / Russell St',49.83747,-99.93656
+3054,'3054','Brandon Clinic Stop (North Side)',49.8406,-99.938
+3055,'3055','Brandon Clinic Stop (South Side)',49.8405,-99.93846
+3056,'3056','BRHA Stop',49.84044,-99.93645
+3057,'3057','Victoria Ave East / Russell St',49.84207,-99.93571
+3058,'3058','Victoria Ave / King George',49.84204,-99.93267
+3059,'3059','Douglas St / Victoria Ave East',49.84171,-99.9279
+3060,'3060','Douglas St / VanHorne Ave',49.8393,-99.92793
+3061,'3061','14th St East / VanHorne Ave East',49.83924,-99.92075
+3062,'3062','Assiniboine Community College',49.84178,-99.9208
+3063,'3063','Lawrence Cres / Lloyd Cres',49.84317,-99.91862
+3064,'3064','Lorne Ave East / 16th St East',49.8453,-99.91858
+3065,'3065','Lorne Ave East / 13th St East',49.84531,-99.92204
+3066,'3066','Princess Ave East / 13th St East',49.84693,-99.92313
+3067,'3067','Princess Ave East / 10th St East',49.84694,-99.92689
+3068,'3068','Princess Ave East / Percy St',49.84692,-99.92963
+3069,'3069','Princess Ave East / Frederick St',49.84692,-99.93385
+3070,'3070','Princess Ave East / Dennis St',49.84692,-99.938
+3071,'3071','Murray Chev Olds',49.82733,-99.9601
+3072,'3072','Super Thrifty Drugs',49.82733,-99.95315
+3073,'3073','Fairview PCH',49.82827,-99.95549
+3074,'3074','Fire Hall #2',49.82951,-99.95564
+3075,'3075','13th St / Queen''s Ave',49.8298,-99.95544
+3076,'3076','13th St / Brandon Ave',49.83384,-99.95542
+3077,'3077','13th St / Pk Ave',49.83623,-99.9554
+3078,'3078','13th St / Vanhorne Ave',49.83928,-99.95543
+3079,'3079','10th St / Victoria Ave',49.8415,-99.95147
+3080,'3080','10th St / Vanhorne Ave',49.83878,-99.95152
+3081,'3081','10th St / College Ave',49.83722,-99.95152
+3083,'3083','Pk Ave At 9th St',49.83595,-99.94957
+3084,'3084','Pk Ave / 5th St',49.83594,-99.94508
+3085,'3085','Pk Ave / 3rd St',49.83591,-99.9415
+3086,'3086','1st St / VanHorne Ave',49.83878,-99.93916
+3087,'3087','1st St / Pk Ave',49.83547,-99.93922
+3088,'3088','1st St / Brandon Ave',49.83298,-99.93922
+3089,'3089','6th St / Richmond Ave',49.82794,-99.94588
+3090,'3090','6th St / Queen''s Ave',49.83073,-99.94588
+3091,'3091','6th St / Brandon Ave',49.83362,-99.94586
+3092,'3092','6th St / Pk Ave',49.83648,-99.94586
+3093,'3093','6th St / McTavish Ave',49.83953,-99.94587
+3094,'3094','Brandon Ave / 13th St',49.83335,-99.95509
+3095,'3095','Brandon Ave / 13th St',49.83324,-99.95506
+3096,'3096','Neelin High School - West Side',49.833,-99.95149
+3097,'3097','Neelin High School - East Side',49.83205,-99.95132
+3098,'3098','10th St / Queen''s Ave (East Side Of 10th)',49.83045,-99.95133
+3099,'3099','10th St / Queen''s Ave (West Side Of 10th)',49.82981,-99.9515
+3100,'3100','Canad Inns',49.83324,-99.96172
+3101,'3101','18th St / College Ave',49.83726,-99.96168
+3102,'3102','18th St / McTavish Ave',49.84082,-99.96176
+3103,'3103','East Industrial',49.842197,-99.919782
+3104,'3104','Maple Leaf',49.827656,-99.916641
