@@ -5,7 +5,7 @@ Brandon Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from April 12, 2013 to December 31, 2015.
+Schedule from December 23, 2015 to January 1, 2019.
 ----------
 Full description:
 This app adds Brandon Transit buses information to MonTransit.
