@@ -1,15 +1,18 @@
-101,0,'Downtown Terminal',1
-102,0,'West',1
 404,0,'Downtown Terminal',4
 403,0,'TransCanada',4
-500,0,'Assiniboine',5
-604,0,'BRHA',6
-603,0,'Downtown Terminal',6
-903,0,'Downtown Terminal',9
-904,0,'South',9
-1003,0,'Downtown Terminal',10
-1004,0,'South',10
-2001,1,'E',20
-2002,1,'W',20
-2101,1,'E',21
-2102,1,'W',21
+503,0,'ACC North',5
+504,0,'Downtown Terminal',5
+803,0,'Downtown Terminal',8
+804,0,'Shoppers Mall',8
+1401,0,'Downtown Terminal',14
+1402,0,'Wankling Blvd',14
+1501,0,'ACC',15
+1502,0,'Downtown Terminal',15
+1601,0,'Neelin',16
+1602,0,'Shoppers Mall',16
+1703,0,'Downtown Terminal',17
+1704,0,'Shoppers Mall',17
+2201,0,'Downtown Terminal',22
+2202,0,'Riverheights',22
+2304,0,'Crocus',23
+2303,0,'Downtown Terminal',23
