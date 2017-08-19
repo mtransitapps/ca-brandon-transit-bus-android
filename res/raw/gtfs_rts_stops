@@ -11,7 +11,7 @@
 22,'22','Princess Ave / 6th St',49.847,-99.9465
 23,'23','Princess Ave / 8th St',49.8469,-99.9493
 24,'24','Princess Ave / 11th St',49.8469,-99.9532
-25,'25','Princess Ave / 12th St',49.8469,-99.955
+25,'25','Princess Ave / 13th St',49.8469,-99.955
 26,'26','Princess Ave / 14th St',49.847,-99.9573
 27,'27','Princess Ave / 16th St',49.847,-99.9599
 28,'28','Brandon University (East)',49.8439,-99.9618
@@ -27,7 +27,7 @@
 39,'39','1st St / Aberdeen Ave',49.8239,-99.939
 41,'41','Victoria Ave / 3rd St',49.8421,-99.9415
 42,'42','Victoria Ave / 6th St',49.8421,-99.9456
-43,'43','Victoria Ave / 8th St',49.8421,-99.9496
+43,'43','Victoria Ave / 9th St',49.8421,-99.9496
 44,'44','6th St / Louise Ave',49.8442,-99.9459
 45,'45','6th St / Princess Ave',49.8459,-99.9461
 47,'47','6th St / Rosser Ave',49.8481,-99.9461
@@ -42,14 +42,14 @@
 1018,'1018','Stickney Ave / 16th St North',49.8521,-99.9598
 1020,'1020','Sokol Mnr',49.8521,-99.9559
 1021,'1021','Stickney Ave / 11th St North',49.8521,-99.9531
-1022,'1022','18th St N / Grand Vly Rd',49.8644,-99.9621
+1022,'1022','18th St N / Grand Vly Rd',49.8633,-99.9621
 1023,'1023','Stickney Ave / 9th St North',49.8521,-99.9504
 1025,'1025','18th St North / McGregor Ave',49.8572,-99.9617
 1026,'1026','18th St North / John Ave (East)',49.859,-99.9616
 1027,'1027','Home Depot - North',49.8646,-99.9582
 1028,'1028','Kirkcaldy Dr / Fraser Cres',49.8646,-99.9556
 1030,'1030','Kirkcaldy Dr / Knowlton Dr',49.8648,-99.9478
-1035,'1035','Sportsplex',49.8668,-99.9473
+1035,'1035','Sportsplex',49.867,-99.9473
 1036,'1036','Knowlton Dr / Braecrest Dr',49.8711,-99.9448
 1037,'1037','Victoria Ave / Whillier Dr',49.8421,-99.9791
 1038,'1038','Crocus Plains High School',49.8193,-99.939
@@ -63,7 +63,7 @@
 1050,'1050','Walmart Stop',49.8676,-99.9617
 1051,'1051','18th St North / Braecrest Dr',49.8727,-99.9617
 1052,'1052','TSC Store',49.8766,-99.9614
-1053,'1053','18th St North / Claire Ave',49.8795,-99.9615
+1053,'1053','18th St North / Clare Ave',49.8795,-99.9615
 1054,'1054','Dufresne Furniture',49.8833,-99.9615
 1055,'1055','Shell',49.8852,-99.9612
 1056,'1056','Freightliner',49.8872,-99.9612
@@ -89,7 +89,7 @@
 2011,'2011','26th St / Parkdale Dr',49.8246,-99.9733
 2012,'2012','26th St / Maryland Ave',49.8209,-99.9731
 2017,'2017','Richmond Ave / Parkdale Dr',49.8276,-99.9784
-2019,'2019','34th St / Willowdale Cres - S.W. Of Traffic Cir',49.8275,-99.9827
+2019,'2019','Richmond Ave / 34th (East Of 34th)',49.8275,-99.9827
 2020,'2020','Tracey St / Sycamore Dr',49.8175,-99.9563
 2021,'2021','34th St / Willowdale - S.W. Of Traffic Cir',49.8304,-99.9847
 2024,'2024','Willowdale Cres / Beech Blvd',49.8316,-99.9784
@@ -204,16 +204,18 @@
 3068,'3068','Princess Ave East / Percy St',49.8469,-99.9296
 3069,'3069','Princess Ave East / Frederick St',49.8469,-99.9339
 3070,'3070','Princess Ave East / Dennis St',49.8469,-99.938
+3073,'3073','Richmond Ave / 1st St',49.8275,-99.9399
 3074,'3074','Fire Hall #2',49.8295,-99.9556
 3075,'3075','26th St / Lorne Ave',49.845,-99.9733
 3076,'3076','1st St North / Veterans Way',49.8657,-99.9386
 3077,'3077','1st St North / Highland Rd',49.8698,-99.9387
 3079,'3079','10th St / McTavish Ave',49.8409,-99.9513
+3080,'3080','10th St / College Ave',49.8377,-99.9513
 3081,'3081','10th St / Southern Ave',49.8351,-99.9513
 3086,'3086','Tracey St / Young Ave',49.8151,-99.9563
 3087,'3087','Sycamore Dr / The Groves',49.8182,-99.9553
 3089,'3089','6th St / Brock Ave',49.8284,-99.946
-3090,'3090','6th St / Queen''s Ave',49.8315,-99.946
+3090,'3090','6th St / Hl Ave',49.8315,-99.946
 3091,'3091','6th St / Southern Ave',49.8345,-99.9461
 3092,'3092','6th St / College Ave',49.8373,-99.9461
 3093,'3093','6th St / VanHorne Ave',49.8397,-99.9461
@@ -224,8 +226,11 @@
 3099,'3099','1st St North / Optimist Pk',49.8545,-99.9384
 3100,'3100','Canad Inns',49.8332,-99.9617
 3101,'3101','18th St / College Ave',49.8373,-99.9617
+3102,'3102','18th St / McTavish Ave',49.8408,-99.9618
 3103,'3103','Murray Chev Olds',49.8276,-99.9567
 3104,'3104','Lawrence Cres / Lloyd Cres',49.8432,-99.9186
 3105,'3105','Princess Ave / 8th St (Return)',49.8469,-99.9493
 3106,'3106','Downtown Terminal (Return)',49.8492,-99.9486
 3107,'3107','Sobey''s South (Return)',49.8261,-99.9636
+3108,'3108','Portola Dr / 9th St',49.8149,-99.9493
+3109,'3109','Richmond Ave / 4th St',49.8275,-99.9435
