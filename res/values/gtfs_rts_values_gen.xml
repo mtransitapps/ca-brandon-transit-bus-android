@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/Winnipeg</string>
     <string name="gtfs_rts_area_min_lat">49.8131</string>
     <string name="gtfs_rts_area_max_lat">49.8872</string>
-    <string name="gtfs_rts_area_min_lng">-100.001</string>
+    <string name="gtfs_rts_area_min_lng">-100.0008</string>
     <string name="gtfs_rts_area_max_lng">-99.9186</string>
     <string name="gtfs_rts_color">00B8F1</string>
 </resources>
