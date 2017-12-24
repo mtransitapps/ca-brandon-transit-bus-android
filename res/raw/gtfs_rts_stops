@@ -51,7 +51,7 @@
 1035,'1035','Sportsplex',49.867,-99.9474
 1036,'1036','Knowlton Dr / Braecrest Dr',49.8711,-99.9448
 1037,'1037','Victoria Ave / Whillier Dr',49.8421,-99.9791
-1038,'1038','Crocus Plains High School',49.8193,-99.939
+1038,'1038','Crocus Plains High School',49.8204,-99.9389
 1039,'1039','Domo',49.8713,-99.9391
 1040,'1040','1st St North / Kirkham Cres',49.8689,-99.9391
 1041,'1041','1st St North / Kirkcaldy Dr',49.8648,-99.9392
@@ -96,7 +96,7 @@
 2027,'2027','Willowdale Cres / Silver Birch Dr (East)',49.8322,-99.9757
 2028,'2028','26th St / Brandon Ave',49.8326,-99.9733
 2029,'2029','26th St / Violet Cres',49.8301,-99.9733
-2030,'2030','Brandon Ave / Buttercup Bay',49.833,-99.971
+2030,'2030','Brandon Ave / 22nd St',49.833,-99.9681
 2031,'2031','Brandon Ave / Aster Cres',49.833,-99.9666
 2032,'2032','18th St / Queen''s Ave',49.8296,-99.9621
 2033,'2033','Shoppers Mall',49.8258,-99.9622
@@ -125,7 +125,7 @@
 2062,'2062','1st St / McTavish Ave',49.8409,-99.9389
 2063,'2063','Fotheringham Dr / Centennial Blvd',49.8453,-99.9953
 2064,'2064','Regent Cres / Fotheringham Dr',49.8432,-99.9966
-2066,'2066','Governors Rd (East Side)',49.8443,-100.0008
+2066,'2066','Governors Rd (East Side)',49.8443,-100.001
 2067,'2067','Centennial Blvd #1 - West Of Fotheringham',49.8454,-99.999
 2068,'2068','Centennial Blvd #2 - West Of Fotheringham',49.8458,-99.9964
 2069,'2069','Richmond Ave / 6th St',49.8275,-99.9464
@@ -233,3 +233,6 @@
 3107,'3107','Sobey''s South (Return)',49.8261,-99.9636
 3108,'3108','Portola Dr / 9th St',49.8149,-99.9493
 3109,'3109','Richmond Ave / 4th St',49.8275,-99.9435
+3110,'3110','Fairview PCH',49.8283,-99.9555
+3111,'3111','13th St / Queens Ave',49.8298,-99.9554
+3112,'3112','22nd St / Queens Ave',49.8296,-99.9676
