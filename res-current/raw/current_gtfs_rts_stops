@@ -24,7 +24,6 @@
 37,'37','10th St / Louise Ave',49.844,-99.9513
 38,'38','10th St / Lorne Ave',49.8456,-99.9513
 39,'39','1st St / Aberdeen Ave',49.8239,-99.939
-40,'40','1st St / Lorne Ave',49.8447,-99.9392
 41,'41','Victoria Ave / 3rd St',49.8421,-99.9415
 42,'42','Victoria Ave / 6th St',49.8421,-99.9456
 43,'43','Victoria Ave / 9th St',49.8421,-99.9496
@@ -52,7 +51,6 @@
 1035,'1035','Sportsplex',49.867,-99.9474
 1036,'1036','Knowlton Dr / Braecrest Dr',49.8711,-99.9448
 1037,'1037','Victoria Ave / Whillier Dr',49.8421,-99.9791
-1038,'1038','Crocus Plains High School',49.8204,-99.9389
 1039,'1039','Domo',49.8713,-99.9391
 1040,'1040','1st St North / Kirkham Cres',49.8689,-99.9391
 1041,'1041','1st St North / Kirkcaldy Dr',49.8648,-99.9392
@@ -88,17 +86,10 @@
 2010,'2010','26th St / Richmond Ave',49.8272,-99.9733
 2011,'2011','26th St / Parkdale Dr',49.8246,-99.9733
 2012,'2012','26th St / Durum Dr',49.8218,-99.9732
-2017,'2017','Richmond Ave / Parkdale Dr',49.8276,-99.9784
-2019,'2019','Richmond Ave / 34th (East Of 34th)',49.8275,-99.9827
 2020,'2020','Tracey St / Sycamore Dr',49.8175,-99.9563
 2021,'2021','34th St / Willowdale - S.W. Of Traffic Cir',49.8304,-99.9847
-2024,'2024','Willowdale Cres / Beech Blvd',49.8316,-99.9784
-2025,'2025','Willowdale Cres / Evergreen Blvd',49.8313,-99.9826
-2027,'2027','Willowdale Cres / Silver Birch Dr (East)',49.8322,-99.9757
 2028,'2028','26th St / Brandon Ave',49.8326,-99.9733
 2029,'2029','26th St / Violet Cres',49.8301,-99.9733
-2030,'2030','Brandon Ave / 22nd St',49.833,-99.9681
-2031,'2031','Brandon Ave / Aster Cr',49.833,-99.9666
 2032,'2032','18th St / Queen''s Ave',49.8296,-99.9621
 2033,'2033','Shoppers Mall',49.8258,-99.9622
 2034,'2034','Capitol Theatre',49.822,-99.9621
@@ -154,9 +145,6 @@
 2097,'2097','18th St / Pk Ave',49.8352,-99.9621
 2098,'2098','Keystone Motor Inn',49.8335,-99.9621
 2099,'2099','Richmond Terminal (South)',49.8274,-99.9644
-2101,'2101','Richmond Ave / 22nd St',49.8274,-99.9671
-3001,'3001','Sobey''s South',49.8261,-99.9636
-3003,'3003','Lyndale Dr / Sycamore Dr',49.8185,-99.9616
 3004,'3004','Magnolia Dr / Maple Rdg Cr',49.8154,-99.953
 3005,'3005','Magnolia Dr / Sycamore Dr',49.8179,-99.953
 3008,'3008','9th St / Portola Dr',49.8155,-99.9497
@@ -165,10 +153,8 @@
 3012,'3012','Maryland Ave / McLeod Dr',49.82,-99.9467
 3014,'3014','Maryland Ave / Cornell Bay',49.82,-99.9439
 3016,'3016','1st St / Victoria Ave',49.8433,-99.9389
-3018,'3018','Portola Dr / Colbalt Cresent',49.8146,-99.942
 3020,'3020','9th St / Mcleod Dr (East Side)',49.8216,-99.9501
 3021,'3021','9th St / Mcleod Dr',49.8212,-99.9501
-3023,'3023','Portola Dr / Frobisher Cres',49.8148,-99.948
 3025,'3025','9th St / Aberdeen Ave',49.8233,-99.9501
 3026,'3026','9th St / Aberdeen Ave',49.824,-99.95
 3027,'3027','9th St / Richmond Ave',49.8264,-99.9501
@@ -182,7 +168,6 @@
 3045,'3045','Garwood Dr / Hazelwood Dr',49.8289,-99.9244
 3046,'3046','Queen''s Ave E / 1st St',49.8305,-99.9386
 3047,'3047','1st St / Madison Cres',49.8336,-99.9389
-3048,'3048','Sycamore Dr / Birchwood Dr',49.8181,-99.9584
 3049,'3049','1st St / College Ave',49.8379,-99.9389
 3051,'3051','Pk Ave / 1st St',49.8358,-99.9384
 3052,'3052','Pk Ave / Frederick St',49.8362,-99.9348
@@ -195,7 +180,6 @@
 3060,'3060','Douglas St / VanHorne Ave',49.8393,-99.9279
 3061,'3061','14th St East / VanHorne Ave East',49.8392,-99.9208
 3062,'3062','Assiniboine Community College',49.8418,-99.9208
-3063,'3063','Richmond Ave / 18th St',49.8276,-99.9602
 3064,'3064','Lorne Ave East / 16th St East',49.8453,-99.9186
 3065,'3065','Lorne Ave East / 13th St East',49.8453,-99.922
 3066,'3066','13th St East / Alpine Bay',49.8467,-99.9221
@@ -203,7 +187,6 @@
 3068,'3068','Princess Ave East / Percy St',49.8469,-99.9296
 3069,'3069','Princess Ave East / Frederick St',49.8469,-99.9339
 3070,'3070','Princess Ave East / Dennis St',49.8469,-99.938
-3074,'3074','Fire Hall #2',49.8295,-99.9556
 3075,'3075','26th St / Lorne Ave',49.845,-99.9733
 3076,'3076','1st St North / Veterans Way',49.8657,-99.9386
 3077,'3077','1st St North / Highland Rd',49.8698,-99.9387
@@ -227,24 +210,3 @@
 3104,'3104','Lawrence Cres / Lloyd Cres',49.8432,-99.9186
 3105,'3105','Princess Ave / 8th St (Return)',49.8469,-99.9493
 3106,'3106','Downtown Terminal (Return)',49.8492,-99.9486
-3107,'3107','Sobey''s South (Return)',49.8261,-99.9636
-3110,'3110','Fairview PCH',49.8283,-99.9555
-3113,'3113','1st St / Queens Ave',49.8305,-99.9389
-3114,'3114','6th St / Greyhound',49.8475,-99.9459
-3115,'3115','10th St / BPS',49.8415,-99.9516
-3116,'3116','10th St / Van Horne Ave (West Side)',49.8388,-99.9516
-3117,'3117','10th St / College Ave (West Side)',49.8372,-99.9516
-3118,'3118','10th St / Southern Ave (West Side)',49.8346,-99.9515
-3119,'3119','10th St / Neelin (West Side)',49.8322,-99.9515
-3120,'3120','Richmond Ave / 13th St',49.8275,-99.9567
-3121,'3121','22nd St / Queens Cres',49.8291,-99.9677
-3122,'3122','13th St / Hl Ave',49.832,-99.9554
-3123,'3123','13th St / Pk Ave',49.8362,-99.9554
-3124,'3124','13th St / Van Horne Ave',49.8393,-99.9554
-3125,'3125','13th St / Pacific Ave',49.8489,-99.9554
-3126,'3126','1st St / McTavish Ave (West Side)',49.8403,-99.9392
-3127,'3127','Pk Ave / 2nd St',49.836,-99.9408
-3128,'3128','Pk Ave / 6th St',49.8361,-99.9463
-3129,'3129','Pk Ave / 9th St',49.836,-99.9503
-3130,'3130','Pk Ave / 12th St',49.836,-99.9544
-3131,'3131','Pk Ave / 16th St',49.836,-99.9599
