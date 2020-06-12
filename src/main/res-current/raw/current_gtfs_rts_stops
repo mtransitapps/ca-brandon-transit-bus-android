@@ -2,6 +2,7 @@
 13,'13','Rosser Ave / 17th St',49.8484,-99.9606
 14,'14','Rosser Ave / 15th St',49.8484,-99.9576
 15,'15','Rosser Ave / 12th St',49.8484,-99.9537
+16,'16','Princess Ave / 8th St',49.8468,-99.9489
 17,'17','Rosser Ave / 6th St',49.8483,-99.9455
 18,'18','Rosser Ave / 3rd St',49.8484,-99.9426
 19,'19','Rosser Ave / 1st St',49.8476,-99.9392
@@ -16,11 +17,12 @@
 28,'28','Brandon University (East)',49.8439,-99.9618
 29,'29','Winnipeg House',49.8466,-99.9584
 30,'30','Hobbs Mnr',49.8448,-99.9583
-31,'31','15th St / Victoria Ave',49.8424,-99.9588
+31,'31','15th St / Victoria Ave',49.8425,-99.9583
 32,'32','Victoria Ave / 16th St',49.8423,-99.9602
 33,'33','13th St / Victoria Ave',49.8426,-99.9554
 34,'34','13th St / Lorne Ave',49.8456,-99.9554
 35,'35','13th St / Princess Ave',49.8471,-99.9554
+36,'36','13th St / Pacific Ave',49.8489,-99.9555
 37,'37','10th St / Louise Ave',49.844,-99.9513
 38,'38','10th St / Lorne Ave',49.8456,-99.9513
 39,'39','1st St / Aberdeen Ave',49.8239,-99.939
@@ -60,7 +62,7 @@
 1047,'1047','Victoria Ave / 17th St',49.8421,-99.9606
 1050,'1050','Walmart Stop',49.8676,-99.9617
 1051,'1051','18th St North / Braecrest Dr',49.8727,-99.9617
-1052,'1052','TSC Store',49.8766,-99.9614
+1052,'1052','Peavey Mart',49.8766,-99.9614
 1053,'1053','18th St North / Clare Ave',49.8795,-99.9615
 1054,'1054','Dufresne Furniture',49.8833,-99.9615
 1055,'1055','Shell',49.8852,-99.9612
@@ -80,7 +82,7 @@
 2001,'2001','Currie Blvd / Patricia Ave',49.8131,-99.9625
 2002,'2002','Days Inn',49.8159,-99.9625
 2003,'2003','Currie Blvd / Imperial Sq',49.8176,-99.9625
-2004,'2004','Maryland Ave / 20th St',49.8206,-99.9658
+2004,'2004','20th St / Maryland Ave',49.8206,-99.9658
 2005,'2005','20th St 1500 Block',49.8234,-99.965
 2007,'2007','20th St / Ottawa Ave',49.8257,-99.965
 2010,'2010','26th St / Richmond Ave',49.8272,-99.9733
@@ -88,14 +90,14 @@
 2012,'2012','26th St / Durum Dr',49.8218,-99.9732
 2020,'2020','Tracey St / Sycamore Dr',49.8175,-99.9563
 2021,'2021','34th St / Willowdale - S.W. Of Traffic Cir',49.8304,-99.9847
-2028,'2028','26th St / Brandon Ave',49.8326,-99.9733
+2028,'2028','26th St / Willowdale Cres',49.8326,-99.9733
 2029,'2029','26th St / Violet Cres',49.8301,-99.9733
 2032,'2032','18th St / Queen''s Ave',49.8296,-99.9621
 2033,'2033','Shoppers Mall',49.8258,-99.9622
 2034,'2034','Capitol Theatre',49.822,-99.9621
-2035,'2035','Richmond Ave / 34th St (West Side Of 34th North)',49.8276,-99.9872
+2035,'2035','Richmond Ave / 34th St (West Side Of 34th)',49.8276,-99.9872
 2036,'2036','Wankling Blvd / Richmond Ave',49.8279,-99.9928
-2037,'2037','Wankling Blvd (East)',49.8296,-99.9928
+2037,'2037','Wankling Blvd / Willowdale Cr (East)',49.8296,-99.9928
 2038,'2038','Willowdale Cres@ Wexford Bay',49.8299,-99.9896
 2039,'2039','Willowdale Cres / 34th St',49.8312,-99.9856
 2043,'2043','Hillcrest PCH',49.8353,-99.9733
@@ -107,7 +109,7 @@
 2052,'2052','34th St / Cherry Cres',49.8408,-99.9846
 2053,'2053','34th St / McTavish Ave',49.8411,-99.9849
 2054,'2054','34th St / McDiarmid Dr (West Side)',49.8373,-99.9849
-2055,'2055','Victoria Ave / 34th St Stop (East)',49.844,-99.9847
+2055,'2055','34th St / Victoria Ave',49.844,-99.9847
 2056,'2056','Crocus Plains High School - South',49.8199,-99.9405
 2057,'2057','Centennial Blvd / 34th St',49.8447,-99.9858
 2058,'2058','18th St / Aagaard Ave',49.831,-99.9618
@@ -121,7 +123,7 @@
 2067,'2067','Centennial Blvd #1 - West Of Fotheringham',49.8454,-99.999
 2068,'2068','Centennial Blvd #2 - West Of Fotheringham',49.8458,-99.9964
 2069,'2069','Richmond Ave / 6th St',49.8275,-99.9464
-2071,'2071','Fotheringham Dr / Rosser Ave',49.8487,-99.9947
+2071,'2071','Rosser Ave / Fotheringham Dr',49.8487,-99.9947
 2073,'2073','Rosser Ave / Deer Pl',49.8488,-99.9914
 2075,'2075','Rosser Ave / Patmore Dr',49.8485,-99.9841
 2077,'2077','Rosser Ave / Whillier Dr',49.8485,-99.981
@@ -146,7 +148,7 @@
 2098,'2098','Keystone Motor Inn',49.8335,-99.9621
 2099,'2099','Richmond Terminal (South)',49.8274,-99.9644
 3004,'3004','Magnolia Dr / Maple Rdg Cr',49.8154,-99.953
-3005,'3005','Magnolia Dr / Sycamore Dr',49.8179,-99.953
+3005,'3005','Magnolia Dr / Sycamore Dr',49.818,-99.953
 3008,'3008','9th St / Portola Dr',49.8155,-99.9497
 3009,'3009','9th St / Coulter Way',49.8172,-99.9497
 3010,'3010','Maryland Ave / Mcleod Dr (East)',49.82,-99.9485
@@ -170,7 +172,7 @@
 3047,'3047','1st St / Madison Cres',49.8336,-99.9389
 3049,'3049','1st St / College Ave',49.8379,-99.9389
 3051,'3051','Pk Ave / 1st St',49.8358,-99.9384
-3052,'3052','Pk Ave / Frederick St',49.8362,-99.9348
+3052,'3052','Frederick St / Pk Ave',49.8362,-99.9348
 3053,'3053','College Ave / Russell St',49.8375,-99.9366
 3055,'3055','Brandon Clinic Stop (South Side)',49.8405,-99.9385
 3056,'3056','BRHA Stop',49.8404,-99.9364
@@ -185,7 +187,7 @@
 3066,'3066','13th St East / Alpine Bay',49.8467,-99.9221
 3067,'3067','Princess Ave East / 10th St East',49.8469,-99.9269
 3068,'3068','Princess Ave East / Percy St',49.8469,-99.9296
-3069,'3069','Princess Ave East / Frederick St',49.8469,-99.9339
+3069,'3069','Princess Ave East / Pk St',49.8469,-99.9339
 3070,'3070','Princess Ave East / Dennis St',49.8469,-99.938
 3075,'3075','26th St / Lorne Ave',49.845,-99.9733
 3076,'3076','1st St North / Veterans Way',49.8657,-99.9386
@@ -207,6 +209,6 @@
 3100,'3100','Canad Inns',49.8332,-99.9617
 3101,'3101','18th St / College Ave',49.8373,-99.9617
 3102,'3102','18th St / McTavish Ave',49.8408,-99.9618
-3104,'3104','Lawrence Cres / Lloyd Cres',49.8432,-99.9186
-3105,'3105','Princess Ave / 8th St (Return)',49.8469,-99.9493
+3104,'3104','Laurence Cres / Lloyd Cres',49.8432,-99.9186
 3106,'3106','Downtown Terminal (Return)',49.8492,-99.9486
+3200,'3200','6th St / Greyhound',49.8476,-99.9459
