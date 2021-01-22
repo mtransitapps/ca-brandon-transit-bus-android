@@ -1,4 +1,4 @@
-1,'1','Downtown Terminal',49.8492,-99.9486
+1,'1','Downtown Term',49.8492,-99.9486
 13,'13','Rosser Ave / 17th St',49.8484,-99.9606
 14,'14','Rosser Ave / 15th St',49.8484,-99.9576
 15,'15','Rosser Ave / 12th St',49.8484,-99.9537
@@ -146,7 +146,7 @@
 2096,'2096','Thomas Mall',49.8385,-99.9621
 2097,'2097','18th St / Pk Ave',49.8352,-99.9621
 2098,'2098','Keystone Motor Inn',49.8335,-99.9621
-2099,'2099','Richmond Terminal (South)',49.8274,-99.9644
+2099,'2099','Richmond Term (South)',49.8274,-99.9644
 3004,'3004','Magnolia Dr / Maple Rdg Cr',49.8154,-99.953
 3005,'3005','Magnolia Dr / Sycamore Dr',49.818,-99.953
 3008,'3008','9th St / Portola Dr',49.8155,-99.9497
@@ -210,5 +210,5 @@
 3101,'3101','18th St / College Ave',49.8373,-99.9617
 3102,'3102','18th St / McTavish Ave',49.8408,-99.9618
 3104,'3104','Laurence Cres / Lloyd Cres',49.8432,-99.9186
-3106,'3106','Downtown Terminal (Return)',49.8492,-99.9486
+3106,'3106','Downtown Term (Return)',49.8492,-99.9486
 3200,'3200','6th St / Greyhound',49.8476,-99.9459
