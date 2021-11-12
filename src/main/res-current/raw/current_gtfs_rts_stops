@@ -5,7 +5,6 @@
 16,'16','Princess Ave @ 8th St',49.8468,-99.9489
 17,'17','Rosser Ave @ 6th St',49.8483,-99.9455
 18,'18','Rosser Ave @ 3rd St',49.8484,-99.9426
-19,'19','Rosser Ave @ 1st St',49.8476,-99.9392
 20,'20','Princess Ave @ 2nd St',49.8469,-99.9401
 21,'21','Princess Ave @ 5th St',49.8469,-99.9438
 22,'22','Princess Ave @ 6th St',49.847,-99.9465
@@ -211,4 +210,6 @@
 3102,'3102','18th St @ McTavish Ave',49.8408,-99.9618
 3104,'3104','Laurence Cres @ Lloyd Cres',49.8432,-99.9186
 3106,'3106','Downtown Term (Return)',49.8492,-99.9486
+3132,'3132','Pacific Ave @ 2nd St',49.8496,-99.9408
+3133,'3133','Pacific Ave @ 5th St',49.8496,-99.9449
 3200,'3200','6th St @ Greyhound',49.8476,-99.9459
