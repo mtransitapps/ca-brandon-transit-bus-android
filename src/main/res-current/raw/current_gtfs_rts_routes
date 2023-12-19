@@ -1,8 +1,8 @@
-4,'4','TransCanada','409AED'
-5,'5','Assiniboine','A83800'
-8,'8','Maryland West','F8E208'
-14,'14','Victoria West','960096'
-15,'15','East Hosp-ACC','0070FF'
-17,'17','South Central','FF00C4'
-22,'22','Riverheights West','FFAB00'
-23,'23','1st St South','73B373'
+4,'4','TransCanada','409AED',2671,3
+5,'5','Assiniboine','A83800',2098,3
+8,'8','Maryland West','F8E208',2474,3
+14,'14','Victoria West','960096',2753,3
+15,'15','East Hosp-ACC','0070FF',2209561,3
+17,'17','South Central','FF00C4',2640,3
+22,'22','Riverheights West','FFAB00',2629,3
+23,'23','1st St South','73B373',49746,3
