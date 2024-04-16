@@ -1,8 +1,18 @@
-4019,0,'TransCanada',4
-5019,0,'Assiniboine',5
-8019,0,'Maryland W',8
-14019,0,'Victoria W',14
-15019,0,'E Hosp-ACC',15
-17019,0,'S Central',17
-22019,0,'Riverheights W',22
-23019,0,'1st St S',23
+400,0,'Downtown Term',4
+401,0,'Downtown Term',4
+500,0,'Assiniboine5',5
+800,0,'Maryland West8',8
+1400,0,'Victoria West14',14
+1500,0,'E Hosp-ACC15',15
+1700,0,'Downtown Term',17
+1701,0,'Downtown Term',17
+2200,0,'Riverheights West22',22
+2300,0,'1st St South23',23
+100100,0,'Maple Leaf Foods',1001
+100200,0,'Indurstrial Hub - Maple Leaf',1002
+100300,0,'Shoppers Mall To Ind Hub',1003
+100400,0,'Ind Hub - Maple Leaf',1004
+100401,0,'Maple Leaf Foods',1004
+100700,0,'Maple Leaf Foods',1007
+100800,0,'Ind I',1008
+100900,0,'Ind J',1009
